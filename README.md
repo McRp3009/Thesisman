@@ -26,5 +26,7 @@ Key technologies used include object-oriented programming (OOP) principles and o
 
 ## Authors
 João Miguel Real Pereira - fc58189
+
 Martim Cabral Rocha Pereira - fc58223
+
 Daniel de Lima Nunes - fc58257
